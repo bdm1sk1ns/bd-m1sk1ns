@@ -22,7 +22,7 @@ const About = () => {
             <div className="text-center p-4">
                 <section className="pl-10 font-light">Creators</section>
                 <div className="text-sm lg:text-lg font-light">
-                    <section className="inline p-2">Idea >> <a href="#" className="font-normal">Shoriful Islam Sagore</a></section>
+                    <section className="inline p-2">Idea >> <a href="#" className="font-normal">SIS</a></section>
                     <section className="inline p-2">Code >> <a href="#" className="font-normal">Oni Laertes</a></section>
                 </div>
             </div>
