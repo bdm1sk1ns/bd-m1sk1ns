@@ -19,7 +19,7 @@ const Layout = (props) => {
             <footer className="text-right">
                 <section className="mb-2 p-2 cursor-pointer">
                     <Link href="/about">
-                        <span className="tracking-widest text-md font-light bg-red-300 p-3 rounded">What is this?</span>
+                        <span className="tracking-widest text-md font-light text-red-200 p-3 rounded">What is this?</span>
                     </Link>
                 </section>
             </footer>
