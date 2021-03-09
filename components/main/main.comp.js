@@ -10,7 +10,7 @@ const ListOfCompanies = () => {
                         <Link as={`/${company.id}/${company.title}`} href="/[id]/[title]">
                             <div className="pt-4 bg-gray-50 shadow-lg h-24 transform scale-100 hover:scale-105 transition duration-300 ease-in">
                                 <section className="tracking-widest text-lg font-extralight">{company.title}</section>
-                                <section className="tracking-wider text-xs text-blue-600 font-extralight">{company.shortDes}</section>
+                                <section className="tracking-wider text-xs text-blue-600 font-light">{company.shortDes}</section>
                             </div>
                         </Link>
                     </div>
