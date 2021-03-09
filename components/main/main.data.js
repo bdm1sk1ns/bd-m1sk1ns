@@ -41,4 +41,12 @@ export default [
         description:"12k-15k salary but experienced based?",
         pocImg:"https://i.imgur.com/bni4VF9.png",
     },
+    {
+        id:"axhsdp",
+        title:"Barikoi Technologies Limited",
+        shortDes:">Sound Knowledge of 3 web frameworks\nSalary: 6000BDT",
+        description:"Expertise in core python, Sound knowledge in 3 web frameworks, Machine Learning, Deep Learning, NLP, Various Relational Databases........6000BDT per month",
+        pocImg:"https://i.imgur.com/oojc7ME.jpg",
+    },
+]
 ]
