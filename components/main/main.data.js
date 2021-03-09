@@ -49,4 +49,3 @@ export default [
         pocImg:"https://i.imgur.com/oojc7ME.jpg",
     },
 ]
-]
